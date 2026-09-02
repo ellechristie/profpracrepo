@@ -1,2 +1,1 @@
-# profpracrepo
-practice repo for 43030
+Hello GitHub
